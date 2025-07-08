@@ -73,11 +73,9 @@ data/ (optional)     → Folder for input files or sample datasets
 ✔ Displays the closest matching sentence  
 ✔ Shows a similarity matrix for reference  
 
-👩‍💻 Authors:
+👩‍💻 Author:
 -------------
 Ushmitha Annapaneni  
-Srinivas
-
 📄 License:
 -----------
 MIT License
